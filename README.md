@@ -9,6 +9,4 @@ Training Images: 001-018.jpg
 
 Image Dimensions: 640 x 480 
 
-Result: http://go.mizzou1.com/34 
-
-Site: http://www.WhoIsLong.com 
+Result: http://whoislong.com/2014/03/02/ece8001-cognitive-computer-vision/
